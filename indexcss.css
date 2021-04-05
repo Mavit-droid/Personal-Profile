@@ -1,0 +1,97 @@
+body{
+  background-color: #252525;
+}
+.navigation-bar{
+  height: 50px;
+  margin: 5px 15px 5px 15px;
+}
+.nav-img{
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 10px;
+}
+.nav-h1{
+  font-family: monospace;
+  position: absolute;
+  left: 70px;
+  top: 10px;
+  margin-top: 12px;
+  font-size: 30px;
+  text-decoration: underline;
+  color: #fbe6c2;
+}
+
+.nav-link1{
+  position: absolute;
+  right: 150px;
+  padding: 20px 20px 10px 20px;
+  color: #ff7a00;
+  font-size: 15px;
+  border-style: solid;
+  border-bottom-color: #be0000;
+  border-radius: 17px;
+  font-family: cursive;
+}
+.nav-link2{
+  position: absolute;
+  right: 12px;
+  padding: 20px 20px 10px 20px;
+  color: #ff7a00;
+  font-size: 15px;
+  border-style: solid;
+  border-bottom-color: #be0000;
+  border-radius: 17px;
+  font-family: cursive;
+}
+.nav-link1:hover, .nav-link2:hover{
+  opacity: 0.5;
+}
+.top-container{
+  background-image: url("D:/Atom Web Dev/WebDev/VanieClaasic/background-image.jpg");
+  height: 400px;
+  margin: 10px 10px 40px;
+  opacity: 0.8;
+}
+h1{
+  text-align: center;
+  color: #f8f4e1;
+  opacity: 1;
+  font-size: 70px;
+}
+.toph1{
+  padding-top: 120px;
+}
+.middle-container{
+  text-align: center;
+}
+.myskillsH2{
+  font-size: 50px;
+}
+.myskills-hr{
+  border-style: none;
+  width: 5%;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #f8f4e1;
+  margin-bottom: 20px;
+}
+p, h2, h3 {
+  font-family: cursive;
+  color: #f8f4e1;
+}
+.bottom-container{
+  text-align: center;
+}
+.footer-link{
+  font-family: cursive;
+  color: #ff7a00;
+  padding: 30px 40px;
+}
+.footer-link:hover{
+  opacity: 0.4;
+}
+.skill-image{
+  height: 150px;
+  width: 150px;
+}
