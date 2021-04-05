@@ -48,7 +48,7 @@ body{
   opacity: 0.5;
 }
 .top-container{
-  background-image: url("/background-image.jpg");
+  background-image: url("background-image.jpg");
   height: 400px;
   margin: 10px 10px 40px;
   opacity: 0.8;
