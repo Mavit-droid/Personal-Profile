@@ -31,7 +31,7 @@ body{
   border-style: solid;
   border-bottom-color: #be0000;
   border-radius: 17px;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 .nav-link2{
   position: absolute;
@@ -42,7 +42,7 @@ body{
   border-style: solid;
   border-bottom-color: #be0000;
   border-radius: 17px;
-  font-family: cursive;
+  font-family: sans-serif;
 }
 .nav-link1:hover, .nav-link2:hover{
   opacity: 0.5;
@@ -76,8 +76,12 @@ h1{
   border-color: #f8f4e1;
   margin-bottom: 20px;
 }
-p, h2, h3 {
+p{
   font-family: sans-serif;
+  color: #f8f4e1;
+}
+h2, h3{
+  font-family: cursive;
   color: #f8f4e1;
 }
 .bottom-container{
