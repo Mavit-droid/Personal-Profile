@@ -50,7 +50,7 @@ p {
 }
 
 .box:hover {
-  opacity: 1;
+  opacity: 0.4;
 }
 
 .box1 {
@@ -63,7 +63,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box2 {
@@ -76,7 +75,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box3 {
@@ -89,7 +87,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box4 {
@@ -102,7 +99,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box5 {
@@ -115,7 +111,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box6 {
@@ -128,7 +123,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box7 {
@@ -141,7 +135,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box8 {
@@ -154,7 +147,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box9 {
@@ -167,7 +159,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box10 {
@@ -180,7 +171,6 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
 
 .box11 {
@@ -193,5 +183,4 @@ p {
   display: inline-block;
   width: 150px;
   height: 150px;
-  opacity: 0.3;
 }
