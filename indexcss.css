@@ -30,8 +30,8 @@ body{
   font-size: 15px;
   border-style: solid;
   border-bottom-color: #be0000;
-  border-radius: 17px;
-  font-family: sans-serif;
+  border-radius: 19px;
+  font-family: monospace;
 }
 .nav-link2{
   position: absolute;
@@ -41,8 +41,8 @@ body{
   font-size: 15px;
   border-style: solid;
   border-bottom-color: #be0000;
-  border-radius: 17px;
-  font-family: sans-serif;
+  border-radius: 19px;
+  font-family: monospace;
 }
 .nav-link1:hover, .nav-link2:hover{
   opacity: 0.5;
