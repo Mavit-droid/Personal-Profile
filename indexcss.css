@@ -93,7 +93,33 @@ h2, h3{
 .footer-link:hover{
   opacity: 0.4;
 }
-.skill-image{
+.skill-row{
+  text-align: center;
+  width: 60%;
+}
+.skill-image1{
   height: 150px;
   width: 150px;
+  float: left;
 }
+.skill-image2{
+  height: 150px;
+  width: 150px;
+  float: right;
+}
+.skill-image3{
+  height: 150px;
+  width: 150px;
+  float: left;
+}
+.skill-image4{
+  height: 150px;
+  width: 150px;
+  float: right;
+}
+.skill-image5{
+  height: 150px;
+  width: 150px;
+  float: left;
+}
+
