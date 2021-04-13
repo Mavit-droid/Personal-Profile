@@ -95,6 +95,7 @@ h2, h3{
 }
 .skill-row{
   text-align: center;
+  margin: 100px auto 100px auto;
   width: 50%;
 }
 .skill-image{
