@@ -95,31 +95,10 @@ h2, h3{
 }
 .skill-row{
   text-align: center;
-  width: 60%;
+  width: 50%;
 }
-.skill-image1{
+.skill-image{
   height: 150px;
   width: 150px;
-  float: left;
-}
-.skill-image2{
-  height: 150px;
-  width: 150px;
-  float: right;
-}
-.skill-image3{
-  height: 150px;
-  width: 150px;
-  float: left;
-}
-.skill-image4{
-  height: 150px;
-  width: 150px;
-  float: right;
-}
-.skill-image5{
-  height: 150px;
-  width: 150px;
-  float: left;
 }
 
